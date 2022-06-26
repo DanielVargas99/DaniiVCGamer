@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielvargas99&label=Profile%20views&color=0e75b6&style=flat" alt="danielvargas99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielvargas99" alt="danielvargas99" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS and Javascript concepts**
 
 - 👨‍💻 All of my projects are available at [github.com/DanielVargas99?tab=repositories](github.com/DanielVargas99?tab=repositories)
