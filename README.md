@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielvargas99&label=Profile%20views&color=0e75b6&style=flat" alt="danielvargas99" /> </p>
 
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/juua9i2c2fA0AIp2iq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript concepts**
 
